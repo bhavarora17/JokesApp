@@ -7,6 +7,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * Created by barora on 1/1/2018.
  */
+/*
 @Configuration
 public class ChuckConfiguration {
 	
@@ -15,3 +16,4 @@ public class ChuckConfiguration {
 		return new ChuckNorrisQuotes();
 	}
 }
+*/
